@@ -1,0 +1,5 @@
+Clientes não devem ser forçados a depender de métodos que não usam.
+Muitas interfaces específicas são melhores que poucas interfaces genéricas.
+
+Uma classe só deve implementar as funções necessárias de acordo com a regra de negócio,
+não por obrigatoriedade da interface.
